@@ -1,0 +1,9 @@
+java-schoolwork
+===============
+
+This repository contains my 2021 Java school work for a Software Development.
+
+All the practicals and tasks are Makefile-based. Simply run `make` in any of
+the directories to compile and run the program in that directory. `make` should
+be pre-installed on most Linux distributions. Win$hit users will have to
+compile the programs through other means, or install the MinGW version of make.
